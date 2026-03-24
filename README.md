@@ -2,7 +2,7 @@
 
 A fully functional multi-view project management tool built with React, TypeScript, and Tailwind CSS.
 
-**Live Demo:** [https://your-deployment-url.vercel.app](https://your-deployment-url.vercel.app)
+**Live Demo:** https://project-tracker-delta-topaz.vercel.app/?view=kanban
 
 ---
 
